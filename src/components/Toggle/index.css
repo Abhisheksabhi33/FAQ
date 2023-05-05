@@ -1,0 +1,15 @@
+.faq-card {
+  margin-bottom: 32px;
+  padding: 32px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 6px 10px 0 rgb(0 0 0 / 3%);
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  outline: none;
+  text-align: left;
+  width: 100%;
+  cursor: pointer;
+}

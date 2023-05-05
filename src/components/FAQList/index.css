@@ -1,0 +1,22 @@
+.faq-container {
+  background-color: #f5f8ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.faq-list-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+}
+
+.heading {
+  color: #183b56;
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 500;
+  margin-bottom: 36px;
+  margin-top: 36px;
+}

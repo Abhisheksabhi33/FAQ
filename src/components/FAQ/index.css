@@ -1,0 +1,15 @@
+.active-question {
+  font-size: 18px;
+  font-weight: 600;
+  color: #0d7feb;
+  margin: 0px;
+  margin-top: 10px;
+}
+.active-answer,
+.in-active-question {
+  font-size: 18px;
+  font-weight: 600;
+  color: #183b56;
+  margin: 0px;
+  margin-top: 10px;
+}
